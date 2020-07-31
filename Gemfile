@@ -1,6 +1,5 @@
 source "https://rubygems.org"
-  gem "rspec"
-  gem "sinatra", '~> 1.4.4'
+Gems and Bundler
  
 group :development do
 gem "pry"
